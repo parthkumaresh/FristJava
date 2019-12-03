@@ -1,0 +1,2 @@
+# FristJava
+My  java programme 
